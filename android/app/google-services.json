@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "132227323309",
+    "firebase_url": "https://flat-chat-f9283.firebaseio.com",
+    "project_id": "flat-chat-f9283",
+    "storage_bucket": "flat-chat-f9283.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132227323309:android:451c62ee26d7d537fdbd24",
+        "android_client_info": {
+          "package_name": "co.KanavPruthi.flat_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132227323309-0dutuu54g85jc47ual1tiltrsuj7srii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc5dnJLxBmplhEXD6g2uVtFz5DF3wdHW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132227323309-0dutuu54g85jc47ual1tiltrsuj7srii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
